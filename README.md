@@ -1,3 +1,5 @@
+LINK TO GOOGLE SLIDES PRESENTATION: 
+
 The Data Connoisseurs' submission for the Macaulay Datathon 2025 :)
 
 Exploring different hypothesis based on the question:
